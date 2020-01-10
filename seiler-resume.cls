@@ -1,4 +1,5 @@
-\ProvidesClass{seiler-resume}[2020/01/10 CV class]
+% Template by Jennifer Seiler
+\ProvidesClass{seiler-resume}[2020/01/10 Resume class]
 \NeedsTeXFormat{LaTeX2e}
 
 \DeclareOption{print}{\def\@cv@print{}}
